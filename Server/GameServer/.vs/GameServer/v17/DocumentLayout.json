@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\model\\TD 1.0\\Server\\GameServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|e:\\model\\td 1.0\\server\\gameserver\\gameserver\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|E:\\model\\TD 1.0\\Server\\GameServer\\gameserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|E:\\model\\TD 1.0\\Server\\GameServer\\gameserver\\obj\\debug\\.netframework,version=v4.6.2.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\obj\\debug\\.netframework,version=v4.6.2.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|E:\\model\\TD 1.0\\Server\\GameServer\\gameserver\\network\\netservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\network\\netservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|E:\\model\\TD 1.0\\Server\\GameServer\\gameserver\\commandhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\commandhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GameServer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|E:\\model\\TD 1.0\\Server\\GameServer\\gameserver\\bin\\debug\\gameserver.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\bin\\debug\\gameserver.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|E:\\model\\TD 1.0\\Server\\GameServer\\gameserver\\bin\\debug\\gameserver.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\bin\\debug\\gameserver.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|E:\\model\\TD 1.0\\Server\\GameServer\\gameserver\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|E:\\model\\TD 1.0\\Server\\GameServer\\gameserver\\entities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\entities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|E:\\model\\TD 1.0\\Server\\GameServer\\gameserver\\network\\tcpsocketlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C54695D-AC9F-455B-846D-0E865991F681}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\network\\tcpsocketlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetService.cs",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\Network\\NetService.cs",
+              "RelativeDocumentMoniker": "GameServer\\Network\\NetService.cs",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\Network\\NetService.cs",
+              "RelativeToolTip": "GameServer\\Network\\NetService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:56:03.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".NETFramework,Version=v4.6.2.AssemblyAttributes.cs",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\obj\\Debug\\.NETFramework,Version=v4.6.2.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "GameServer\\obj\\Debug\\.NETFramework,Version=v4.6.2.AssemblyAttributes.cs",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\obj\\Debug\\.NETFramework,Version=v4.6.2.AssemblyAttributes.cs",
+              "RelativeToolTip": "GameServer\\obj\\Debug\\.NETFramework,Version=v4.6.2.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:48:36.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\Program.cs",
+              "RelativeDocumentMoniker": "GameServer\\Program.cs",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\Program.cs",
+              "RelativeToolTip": "GameServer\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:56:05.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameServer.cs",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\GameServer.cs",
+              "RelativeDocumentMoniker": "GameServer\\GameServer.cs",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\GameServer.cs",
+              "RelativeToolTip": "GameServer\\GameServer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAApwBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:45:16.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandHelper.cs",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\CommandHelper.cs",
+              "RelativeDocumentMoniker": "GameServer\\CommandHelper.cs",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\CommandHelper.cs",
+              "RelativeToolTip": "GameServer\\CommandHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:42:19.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameServer.exe",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\bin\\Debug\\GameServer.exe",
+              "RelativeDocumentMoniker": "GameServer\\bin\\Debug\\GameServer.exe",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\bin\\Debug\\GameServer.exe",
+              "RelativeToolTip": "GameServer\\bin\\Debug\\GameServer.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-12-08T11:49:44.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameServer",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\GameServer.csproj",
+              "RelativeDocumentMoniker": "GameServer\\GameServer.csproj",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\GameServer.csproj",
+              "RelativeToolTip": "GameServer\\GameServer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-08T11:52:02.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameServer.pdb",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\bin\\Debug\\GameServer.pdb",
+              "RelativeDocumentMoniker": "GameServer\\bin\\Debug\\GameServer.pdb",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\bin\\Debug\\GameServer.pdb",
+              "RelativeToolTip": "GameServer\\bin\\Debug\\GameServer.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2024-12-08T11:50:21.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TcpSocketListener.cs",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\Network\\TcpSocketListener.cs",
+              "RelativeDocumentMoniker": "GameServer\\Network\\TcpSocketListener.cs",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\Network\\TcpSocketListener.cs",
+              "RelativeToolTip": "GameServer\\Network\\TcpSocketListener.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwv3kAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:44:14.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\Settings.cs",
+              "RelativeDocumentMoniker": "GameServer\\Settings.cs",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\Settings.cs",
+              "RelativeToolTip": "GameServer\\Settings.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:38:58.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entities.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\Entities.edmx",
+              "RelativeDocumentMoniker": "GameServer\\Entities.edmx",
+              "ToolTip": "E:\\model\\TD 1.0\\Server\\GameServer\\GameServer\\Entities.edmx [Diagram1]",
+              "RelativeToolTip": "GameServer\\Entities.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-08T10:52:52.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

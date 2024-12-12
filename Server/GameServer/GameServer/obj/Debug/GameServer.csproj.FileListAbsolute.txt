@@ -1,0 +1,80 @@
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\log4net.xml
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\Common.dll
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\EntityFramework.dll
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\log4net.dll
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\protobuf-net.dll
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\Protocol.dll
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\UnityEngine.dll
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\Common.pdb
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\Protocol.pdb
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\EntityFramework.xml
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\protobuf-net.xml
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.exe.config
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\u3d\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.pdb
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.exe.config
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\log4net.xml
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\GameServer.exe.config
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\GameServer.exe
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\GameServer.pdb
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\Common.dll
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\EntityFramework.dll
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\EntityFramework.SqlServer.dll
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\log4net.dll
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\protobuf-net.dll
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\Protocol.dll
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\UnityEngine.dll
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\Common.pdb
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\Protocol.pdb
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\EntityFramework.xml
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\EntityFramework.SqlServer.xml
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\protobuf-net.xml
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.pdb
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.SuggestedBindingRedirects.cache
+E:\mmo\Mymmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.Up2Date
+E:\model\TD 1.0\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+E:\model\TD 1.0\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.SuggestedBindingRedirects.cache
+E:\model\TD 1.0\Server\GameServer\GameServer\obj\Debug\GameServer.exe.config
+E:\model\TD 1.0\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\log4net.xml
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\GameServer.exe.config
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\GameServer.exe
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\GameServer.pdb
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\EntityFramework.dll
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\EntityFramework.SqlServer.dll
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\log4net.dll
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\NetCommon.dll
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\protobuf-net.dll
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\Protocol.dll
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\UnityEngine.dll
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\NetCommon.pdb
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\Protocol.pdb
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\EntityFramework.xml
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\EntityFramework.SqlServer.xml
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\protobuf-net.xml
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\model\TD 1.0\Server\GameServer\GameServer\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\model\TD 1.0\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.Up2Date
+E:\model\TD 1.0\Server\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\model\TD 1.0\Server\GameServer\GameServer\obj\Debug\GameServer.pdb

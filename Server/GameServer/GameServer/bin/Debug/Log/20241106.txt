@@ -1,0 +1,23 @@
+
+2024-11-06 16:23:46,970 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-11-06 16:23:47,539 [1] [WARN ] [GameServer] £ºStarting Listener...
+2024-11-06 16:23:47,655 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:23:47,656 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:23:47,656 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:23:47,656 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:23:47,656 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:23:47,656 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:23:47,656 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:23:47,655 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:23:47,746 [1] [WARN ] [GameServer] £ºNetService Started
+2024-11-06 16:24:30,566 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-11-06 16:24:31,159 [1] [WARN ] [GameServer] £ºStarting Listener...
+2024-11-06 16:24:31,239 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:24:31,239 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:24:31,239 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:24:31,239 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:24:31,239 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:24:31,239 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:24:31,240 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:24:31,240 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-11-06 16:24:31,326 [1] [WARN ] [GameServer] £ºNetService Started

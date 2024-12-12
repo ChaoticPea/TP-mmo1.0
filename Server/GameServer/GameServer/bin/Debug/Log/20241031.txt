@@ -1,0 +1,11 @@
+
+2024-10-31 18:44:46,432 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-10-31 18:48:40,438 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-10-31 19:33:38,863 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-10-31 20:52:56,621 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-10-31 21:17:20,328 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-10-31 21:29:23,853 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-10-31 21:31:09,185 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-10-31 21:31:09,660 [1] [WARN ] [GameServer] £ºStarting Listener...
+2024-10-31 21:44:14,316 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-10-31 21:44:14,796 [1] [WARN ] [GameServer] £ºStarting Listener...
