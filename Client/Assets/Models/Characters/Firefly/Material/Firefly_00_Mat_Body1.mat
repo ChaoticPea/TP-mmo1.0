@@ -14,7 +14,7 @@ Material:
   m_ValidKeywords:
   - _AREA_BODY
   - _AUTO_Brightness_ON
-  - _AdditionalLighting_ON
+  - _BACKFACEUV2_ON
   - _CUSTOMBLOOMCOLORVARENUM_OVERLAY
   - _CUSTOMBLOOMVARENUM_OVERLAY
   - _CUSTOMHEADBONEMODEVARENUM_MMD
@@ -22,21 +22,21 @@ Material:
   - _CUSTOMRIMLIGHTCOLORVARENUM_OVERLAY
   - _CUSTOMRIMLIGHTVARENUM_OVERLAY
   - _CUSTOMRIMSHADOWCOLORVARENUM_OVERLAY
-  - _CUSTOMRIMSHADOWVARENUM_OVERLAY
+  - _CUSTOMRIMSHADOWVARENUM_DISABLE
   - _CUSTOMSPECULARCOLORVARENUM_OVERLAY
   - _CUSTOMSPECULARVARENUM_OVERLAY
-  - _CUSTOM_RAMP_MAPPING_ON
   - _OUTLINENORMALCHANNEL_NORMAL
   - _RIM_LIGHTING_ON
   - _SPECULAR_ON
   m_InvalidKeywords:
   - _DAYTIME_MANUAL_ON_ON
   - _ENABLEFOVWIDTH_ON
+  - _ENABLEOUTLINE_ON
   - _MODEL_GAME
   - _OUTLINENORMAL_TANGENT
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
@@ -154,11 +154,11 @@ Material:
     - _CustomBloomVarEnum: 2
     - _CustomHeadBoneModeVarEnum: 2
     - _CustomOutlineVarEnum: 3
-    - _CustomRampMappingToggle: 1
+    - _CustomRampMappingToggle: 0
     - _CustomRimLightColorVarEnum: 2
     - _CustomRimLightVarEnum: 2
     - _CustomRimShadowColorVarEnum: 2
-    - _CustomRimShadowVarEnum: 2
+    - _CustomRimShadowVarEnum: 0
     - _CustomSpecularColorVarEnum: 2
     - _CustomSpecularVarEnum: 2
     - _DayTime: 12
@@ -172,7 +172,7 @@ Material:
     - _EmissionMixBaseColorFac: 1
     - _EmissionThreshold: 1
     - _EnableFOVWidth: 1
-    - _EnableOutline: 0
+    - _EnableOutline: 1
     - _EnableSpecular: 1
     - _ExCheekIntensity: 0
     - _ExEyeShadowIntensity: 0
@@ -206,7 +206,7 @@ Material:
     - _OutlineNormalChannel: 0
     - _OutlineScale: 0.001
     - _OutlineUseLutMapToggle: 0
-    - _OutlineWidth: 0.066
+    - _OutlineWidth: 0.02
     - _OutlineWidthMax: 30
     - _OutlineWidthMin: 2
     - _OutlineZOffset: 0
@@ -245,7 +245,7 @@ Material:
     - _RimIntensityBackFaceAdditionalLight: 0
     - _RimShadowColor: 0
     - _RimShadowCt: 1
-    - _RimShadowFeather: 0
+    - _RimShadowFeather: 0.01
     - _RimShadowFeather0: 0.01
     - _RimShadowFeather1: 0.9
     - _RimShadowFeather2: 0.01
@@ -323,10 +323,10 @@ Material:
     - _StockingsRoughness: 1
     - _Stockpower: 1
     - _Stockpower1: 1
-    - _UseAdditionalLighting: 1
+    - _UseAdditionalLighting: 0
     - _UseAlphaClipping: 0
     - _UseAutoBrightness: 1
-    - _UseBackFaceUV2: 0
+    - _UseBackFaceUV2: 1
     - _UseEmission: 0
     - _UseLutMapToggle: 0
     - _UseNormalMap: 0

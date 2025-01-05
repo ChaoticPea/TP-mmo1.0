@@ -128,7 +128,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AdditionalLightIntensity: 1
+    - _AdditionalLightIntensity: 0.5
     - _Alpha: 1
     - _AlphaTest: 0
     - _AlphaTestThreshold: 0.5

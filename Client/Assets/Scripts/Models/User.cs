@@ -30,7 +30,7 @@ namespace Models
 
         public SkillBridge.Message.NCharacterInfo CurrentCharacter { get; set; }
 
-        //public PlayerInputController CurrentCharacterObject { get; set; }
+        public PlayerInputController CurrentCharacterObject { get; set; }
 
         //public NTeamInfo TeamInfo { get; set; }
         /*

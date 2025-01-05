@@ -25,7 +25,7 @@ Material:
   - _CUSTOMSPECULARCOLORVARENUM_OVERLAY
   - _CUSTOMSPECULARVARENUM_OVERLAY
   - _CUSTOM_RAMP_MAPPING_ON
-  - _OUTLINENORMALCHANNEL_TANGENT
+  - _OUTLINENORMALCHANNEL_NORMAL
   - _RIM_LIGHTING_ON
   - _RIM_SHADOW_ON
   - _SPECULAR_ON
@@ -122,7 +122,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AdditionalLightIntensity: 1
+    - _AdditionalLightIntensity: 0.5
     - _Alpha: 1
     - _AlphaTest: 0
     - _AlphaTestThreshold: 0.5
@@ -188,10 +188,10 @@ Material:
     - _ModelScale: 1
     - _NoseLinePower: 1
     - _OutlineNormal: 0
-    - _OutlineNormalChannel: 1
+    - _OutlineNormalChannel: 0
     - _OutlineScale: 0.001
     - _OutlineUseLutMapToggle: 0
-    - _OutlineWidth: 0.04
+    - _OutlineWidth: 0.03
     - _OutlineWidthMax: 30
     - _OutlineWidthMin: 0
     - _OutlineZOffset: 0

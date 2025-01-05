@@ -14,7 +14,6 @@ Material:
   m_ValidKeywords:
   - _AREA_HAIR
   - _AUTO_Brightness_ON
-  - _AdditionalLighting_ON
   - _CUSTOMBLOOMCOLORVARENUM_OVERLAY
   - _CUSTOMBLOOMVARENUM_OVERLAY
   - _CUSTOMHEADBONEMODEVARENUM_MMD
@@ -26,7 +25,7 @@ Material:
   - _CUSTOMSPECULARCOLORVARENUM_OVERLAY
   - _CUSTOMSPECULARVARENUM_OVERLAY
   - _CUSTOM_RAMP_MAPPING_ON
-  - _OUTLINENORMALCHANNEL_TANGENT
+  - _OUTLINENORMALCHANNEL_NORMAL
   - _RIM_LIGHTING_ON
   - _RIM_SHADOW_ON
   - _SPECULAR_ON
@@ -123,7 +122,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AdditionalLightIntensity: 1
+    - _AdditionalLightIntensity: 0.5
     - _Alpha: 1
     - _AlphaTest: 0
     - _AlphaTestThreshold: 0.5
@@ -189,7 +188,7 @@ Material:
     - _ModelScale: 1
     - _NoseLinePower: 1
     - _OutlineNormal: 0
-    - _OutlineNormalChannel: 1
+    - _OutlineNormalChannel: 0
     - _OutlineScale: 0.001
     - _OutlineUseLutMapToggle: 0
     - _OutlineWidth: 0.02
@@ -299,7 +298,7 @@ Material:
     - _StockSP: 0.25
     - _Stockpower: 1
     - _Stockpower1: 1
-    - _UseAdditionalLighting: 1
+    - _UseAdditionalLighting: 0
     - _UseAlphaClipping: 0
     - _UseAutoBrightness: 1
     - _UseBackFaceUV2: 0
@@ -365,7 +364,7 @@ Material:
     - _NoseLineColor: {r: 1, g: 0.635, b: 0.635, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _OutlineColor0: {r: 0.5622641, g: 0.5622641, b: 0.5622641, a: 1}
-    - _OutlineColor1: {r: 0.554717, g: 0.554717, b: 0.554717, a: 1}
+    - _OutlineColor1: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 1}
     - _OutlineColor2: {r: 0, g: 0, b: 0, a: 1}
     - _OutlineColor3: {r: 0, g: 0, b: 0, a: 1}
     - _OutlineColor4: {r: 0, g: 0, b: 0, a: 1}

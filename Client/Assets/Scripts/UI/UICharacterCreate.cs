@@ -8,9 +8,9 @@ using UnityEngine.UI;
 
 public class UICharacterCreate : MonoBehaviour {
 
-    public List<Button> uiProfessionButton = new List<Button>();
-    public List<Image> uiProfessionImage = new List<Image>();
-    public List<GameObject> uiChar = new List<GameObject>();
+    public List<Button> uiProfessionButton = new();
+    public List<Image> uiProfessionImage = new();
+    public List<GameObject> uiChar = new();
 
 
     public Text description;
@@ -22,6 +22,7 @@ public class UICharacterCreate : MonoBehaviour {
     void Start () {
         InitCharacterCreate();
         DataManager.Instance.Load();
+        UserService.Instance.OnCharacterCreate = OnCharacterCreate;
     }
 
     public void InitCharacterCreate()
@@ -70,5 +71,18 @@ public class UICharacterCreate : MonoBehaviour {
         }
 
         UserService.Instance.SendCharacterCreate(this.charName.text, this.charClass);
+
+    }
+
+    void OnCharacterCreate(Result result, string message)
+    {
+        if (result == Result.Success)
+        {
+            //角色创建成功
+            MessageBox.Show("角色创建成功" + message, "提示", MessageBoxType.Information);
+            UserService.Instance.SendGameEnter(Models.User.Instance.Info.Player.Characters.Count-1);
+        }
+        else
+            MessageBox.Show(message, "错误", MessageBoxType.Error);
     }
 }

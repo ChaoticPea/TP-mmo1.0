@@ -201,7 +201,6 @@ namespace Services
         }
 
 
-
         public void SendCharacterCreate(string name, CharacterClass cls)
         {
             Debug.LogFormat("UserCreateCharacterRequest::name :{0} class:{1}", name, cls);
@@ -259,7 +258,11 @@ namespace Services
 
             if (response.Result == Result.Success)
             {
+                if(response.Character!=null)
+                {
+                    User.Instance.CurrentCharacter = response.Character;
 
+                }
             }
         }
 

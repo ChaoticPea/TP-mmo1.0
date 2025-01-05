@@ -14,7 +14,6 @@ Material:
   m_ValidKeywords:
   - _AREA_BODY
   - _AUTO_Brightness_ON
-  - _AdditionalLighting_ON
   - _BACKFACEUV2_ON
   - _CUSTOMBLOOMCOLORVARENUM_OVERLAY
   - _CUSTOMBLOOMVARENUM_OVERLAY
@@ -130,7 +129,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AdditionalLightIntensity: 0.5
-    - _Alpha: 0.861
+    - _Alpha: 1
     - _AlphaTest: 0
     - _AlphaTestThreshold: 0.5
     - _AnisotropySpecularToggle: 0
@@ -326,7 +325,7 @@ Material:
     - _StockingsRoughness: 1
     - _Stockpower: 1
     - _Stockpower1: 1
-    - _UseAdditionalLighting: 1
+    - _UseAdditionalLighting: 0
     - _UseAlphaClipping: 0
     - _UseAutoBrightness: 1
     - _UseBackFaceUV2: 1
